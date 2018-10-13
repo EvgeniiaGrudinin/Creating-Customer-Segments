@@ -3,3 +3,5 @@ In this project, I analyzed a dataset containing data on various customers' annu
 Then we used a supervised learning technique (for example, SVM) with the customer product spending as an input datasets. As a target variable we used customer segments. After the classifier is trained the wholesale distributor could determine the most appropriate delivery service.
 
 Libraries which maybe you should install: scikit-learn
+
+file report.html-html version of .ipynb file
